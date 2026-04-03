@@ -1,4 +1,4 @@
-# 1-DPL-Platform[palletleverancier-platform.html](https://github.com/user-attachments/files/26456745/palletleverancier-platform.html)
+De Palletleverancier platform
 <!DOCTYPE html>
 <html lang="nl">
 <head>
